@@ -1,0 +1,65 @@
+p{
+font-size: 35px;
+border: 5px inset goldenrod;
+padding: 20px;
+margin-bottom: 20px;
+}
+.example1{
+text-decoration-line: underline;
+background-color: beige;
+text-decoration-thickness: 5px;
+text-decoration-color: red;
+}
+.example2{
+    text-decoration-line: overline;
+    background-color: bisque;
+    text-decoration-style: double;
+}
+.example3{
+text-decoration-line: line-through;
+background-color: rgb(243, 249, 175);
+text-decoration-style:dotted ;
+text-decoration-color:aqua ;
+}
+.example4{
+text-decoration: overline underline;
+background-color: azure;
+text-transform: lowercase;
+
+}
+.example5{
+    text-decoration-style: wavy;
+    background-color: whitesmoke;
+    text-decoration-line:underline ;
+}
+.example6{
+    text-decoration: underline double greenyellow 4px;
+    text-transform: uppercase;
+}
+.example7{
+    text-transform: capitalize;
+    background-color: aquamarine;
+}
+.example8{
+    text-indent: 100px;
+    background-color: blueviolet;
+    word-spacing: -20px;
+}
+.example9{
+    background-color: chartreuse;
+    letter-spacing: 10px;
+    text-align: justify;
+}
+
+.example10{
+    line-height: 3;
+    background-color: rgb(241, 183, 57);
+}
+.example11{
+    word-spacing: 15px;
+    background-color: rgb(128, 238, 139);
+}
+.example12{
+    white-space: nowrap;
+    background-color: rgb(128, 205, 238);
+}
